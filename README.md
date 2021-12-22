@@ -54,19 +54,18 @@ Nessa etapa você poderá exibir os dados por meio de uma REST API ou no Colab, 
  
 ## Finalização e Instruções para a Apresentação
 
-Avisar sobre a finalização e enviar para correção em: [https://coodesh.com/challenges/review](https://coodesh.com/challenges/review) 
+Avisar sobre a finalização e enviar para correção.
 
+1. Confira se você respondeu o Scorecard da Vaga que chegou no seu email;
+2. Confira se você respondeu o Mapeamento Comportamental que chegou no seu email;
+3. Acesse: [https://coodesh.com/challenges/review](https://coodesh.com/challenges/review);
+4. Adicione o repositório com a sua solução;
+5. Grave um vídeo, utilizando o botão na tela de solicitar revisão da Coodesh, com no máximo 5 minutos, com a apresentação do seu projeto. Foque em pontos obrigatórios e diferenciais quando for apresentar.
+6. Adicione o link da apresentação do seu projeto no README.md.
+7. Verifique se o Readme está bom e faça o commit final em seu repositório;
+8. Confira a vaga desejada;
+9. Envie e aguarde as instruções para seguir no processo. Sucesso e boa sorte. =)
 
-1. Confira se você respondeu o Scorecard;
-2. Crie uma conta na plataforma: https://www.loom.com/ e instale o Desktop App ou Extensão no Chrome: https://www.loom.com/download
-3. Grave um vídeo, com no máximo 5 minutos, com a apresentação do seu projeto.
-4. Adicione o link da apresentação do seu projeto no README.md.
-5. Verifique se o Readme está bom e faça o commit final em seu repositório;
-6. Acesse: https://coodesh.com/challenges/review;
-7. Confira a vaga desejada;
-8. Adicione o repositório com a sua solução;
-9. Adicione o vídeo do loom com a sua solução;
-10. Envie e aguarde as instruções para seguir no processo. Sucesso e boa sorte. =)
 
 
 ## Suporte
