@@ -40,9 +40,9 @@ Nessa etapa você poderá exibir os dados por meio de uma REST API ou no Colab, 
 
 5- Lista de todos os gêneros de filmes.
 
-6- Media em relação a duração de "TV Show" de todos os dados e comparativamente em relação as duas plataformas
+6- A frequência de "TV Show" de todos os dados e comparativamente em relação as duas plataformas
 
-7- Media em relação a duração de "Movies" de todos os dados e comparativamente em relação as duas plataformas
+7- A frequência de "Movies" de todos os dados e comparativamente em relação as duas plataformas
 
 
 ## Readme do Repositório
